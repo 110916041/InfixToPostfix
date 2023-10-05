@@ -4,10 +4,6 @@
 
 EX： 
     
-INPUT：
+INPUT：(a + b) * (c + d)
 
-  (a + b) * (c + d)
-
-OUTPUT：
-
-  ab+cd+*
+OUTPUT：ab+cd+*
